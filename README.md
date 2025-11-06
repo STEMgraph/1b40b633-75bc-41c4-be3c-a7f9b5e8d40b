@@ -1,7 +1,10 @@
 <!---
 {
   "id": "1b40b633-75bc-41c4-be3c-a7f9b5e8d40b",
-  "depends_on": ["AND", "24b25804-5bb5-443f-a78a-1bd485bebed8", "2d1d315d-bb92-48c0-b19f-19529a45e5ff"],
+  "depends_on": [
+    "24b25804-5bb5-443f-a78a-1bd485bebed8",
+    "2d1d315d-bb92-48c0-b19f-19529a45e5ff"
+  ],
   "author": "Stephan Bökelmann",
   "first_used": "2025-05-13",
   "keywords": ["docker", "python", "packaging", "requirements.txt"]
