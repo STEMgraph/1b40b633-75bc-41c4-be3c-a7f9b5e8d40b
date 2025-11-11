@@ -1,6 +1,7 @@
 <!---
 {
   "id": "1b40b633-75bc-41c4-be3c-a7f9b5e8d40b",
+  "teaches": "Packaging a Python Application with Docker",
   "depends_on": [
     "24b25804-5bb5-443f-a78a-1bd485bebed8",
     "2d1d315d-bb92-48c0-b19f-19529a45e5ff"
